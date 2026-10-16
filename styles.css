@@ -56,3 +56,11 @@ kbd{background:var(--soft);border:1px solid var(--bd);border-radius:4px;padding:
 .sugs{max-height:260px;overflow:auto;font-size:.9rem}.sugs label{display:flex;gap:8px;padding:4px 0;border-bottom:1px solid var(--bd)}
 .rep{list-style:none;padding:0}.rep li{padding:6px 10px;border-radius:8px;margin:4px 0}.rep .g{background:rgba(34,197,94,.14);color:#86efac}.rep .r{background:rgba(239,68,68,.18);color:#fecaca}
 .btn{min-height:44px}.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:6px 0}
+
+/* Mobil-Feinschliff: Navigation als wischbare Zeile, Entwickler-Block gestapelt */
+@media(max-width:640px){header.top .wrap{flex-wrap:nowrap;gap:12px;padding-top:8px;padding-bottom:8px}.brand{flex:none}
+nav.main{flex-wrap:nowrap;overflow-x:auto;white-space:nowrap;scrollbar-width:none;-webkit-overflow-scrolling:touch;min-width:0;flex:1;padding:6px 0;-webkit-mask-image:linear-gradient(90deg,#000 85%,transparent);mask-image:linear-gradient(90deg,#000 85%,transparent)}nav.main::-webkit-scrollbar{display:none}nav.main a{flex:none}}
+.about .wrap>div{min-width:0;flex:1}.about .btn svg{flex:none}
+@media(max-width:600px){.about .wrap{flex-direction:column;gap:10px}.about .wrap>img{width:36px;height:36px}
+.about .btns,.xlink .btns{display:grid;grid-template-columns:1fr;gap:8px}.about .btns .btn,.xlink .btns .btn{width:100%;justify-content:flex-start;min-height:44px;white-space:normal}
+footer .cols{display:grid;grid-template-columns:1fr 1fr;gap:6px 12px}}
