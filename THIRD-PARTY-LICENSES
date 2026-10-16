@@ -1,0 +1,9 @@
+Dieses Projekt steht unter der GNU Affero General Public License v3.0 (siehe LICENSE).
+
+Enthaltene Bibliothek:
+
+MuPDF / mupdf.js 1.28.1 (vendor/mupdf/)
+Copyright (C) Artifex Software, Inc.
+Lizenz: GNU Affero General Public License v3.0 (AGPL-3.0)
+Quelle: https://mupdf.com/ · https://github.com/ArtifexSoftware/mupdf.js
+Lizenztext: vendor/mupdf/LICENSE

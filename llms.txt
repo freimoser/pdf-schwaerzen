@@ -1,0 +1,17 @@
+# PDF sicher schwärzen
+
+> Kostenloses deutsches Web-Tool, das PDFs lokal im Browser schwärzt (MuPDF als WebAssembly, AGPL-3.0). Text, Bilder und Vektorgrafik unter den Schwärzungen werden aus der Datei entfernt, nicht nur überdeckt. Automatische Vorschläge für deutsche Personendaten (IBAN und Steuer-ID mit Prüfziffer), Kontoauszug-Modus, Metadaten-Bereinigung und eine Prüfung der fertigen Datei. Kein Upload, keine Anmeldung.
+
+## Seiten
+- [PDF schwärzen kostenlos](https://freimoser.github.io/pdf-schwaerzen/): das Tool, plus Anleitung „Befund oder Arztbrief schwärzen“
+- [Kontoauszug schwärzen](https://freimoser.github.io/pdf-schwaerzen/kontoauszug-schwaerzen/): was man für Jobcenter, Wohngeld, BAföG schwärzen darf
+- [PDF sicher schwärzen](https://freimoser.github.io/pdf-schwaerzen/sicher-schwaerzen/): warum ein schwarzer Kasten nicht reicht, Methodenvergleich
+- [PDF Metadaten entfernen](https://freimoser.github.io/pdf-schwaerzen/pdf-metadaten-entfernen/): was in Metadaten steht und wie man es entfernt
+- [PDF schwärzen am Mac und iPhone](https://freimoser.github.io/pdf-schwaerzen/pdf-schwaerzen-mac-iphone/): Bordmittel ehrlich eingeordnet
+- [Datenschutz](https://freimoser.github.io/pdf-schwaerzen/datenschutz/)
+
+## Verwandte Tools
+- [DICOM Viewer](https://freimoser.github.io/dicom-viewer/)
+- [LDT & BDT Viewer](https://freimoser.github.io/ldt-bdt-viewer/)
+- [GDT Viewer](https://freimoser.github.io/gdt-viewer/)
+- [Thomas Freimoser](https://freimoser.de/) · [LinkedIn](https://www.linkedin.com/in/freimoser)
